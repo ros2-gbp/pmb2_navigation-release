@@ -2,6 +2,29 @@
 Changelog for package pmb2_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.24.1 (2026-07-24)
+-------------------
+* fixing use sim time
+* Contributors: martinaannicelli
+
+4.24.0 (2026-07-21)
+-------------------
+* fix use sim time
+* Contributors: antoniobrandi
+
+4.23.0 (2026-07-17)
+-------------------
+* start apps using localization manager
+* Contributors: antoniobrandi
+
+4.22.1 (2026-07-17)
+-------------------
+
+4.22.0 (2026-07-07)
+-------------------
+* adapt eulero refactor
+* Contributors: antoniobrandi
+
 4.21.1 (2026-02-17)
 -------------------
 
